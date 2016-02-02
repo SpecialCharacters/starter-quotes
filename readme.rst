@@ -1,3 +1,10 @@
+Coding Convention: K&R Style 
+
+Team members:
+Allen Tsang
+Carson Roscoe
+Jaegar Sarauer
+
 #######################
 Starter Webapp - Quotes
 #######################
