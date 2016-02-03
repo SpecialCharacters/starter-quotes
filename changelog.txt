@@ -1,5 +1,7 @@
 Date/Time               What happened
 
+Feb 2, 9:10pm			Got rid of embedded project
+Feb 2, 9:01pm			Fixed link 5 and 7
 Feb 2, 6:38pm           Fixed link 2
 Feb 2, 6:25pm           Updated readme
 Feb 2, 6:20pm           Fixed link 8
