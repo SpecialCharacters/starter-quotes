@@ -52,6 +52,7 @@ $route['dunno'] = function() {
     die();
 };
 $route['lock/(:any)/(:any)'] = "welcome/shucks";
+$route['comp(\d+)/(.+)'] = 'wise/bingo';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
