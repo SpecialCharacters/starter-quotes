@@ -1,5 +1,6 @@
 Date/Time               What happened
 
+Feb 2, 6:25pm           Updated readme
 Feb 2, 6:20pm           Fixed link 8
 Feb 2, 6:00pm           Fixed link 6
 Feb 2, 5:55pm           Link 4 bug fixes
