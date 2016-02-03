@@ -4,7 +4,7 @@ Coding Convention: K&R Style
 
 Team members:
 
-Allen Tsang     - has read this page
+Allen Tsang     - has read this
 
 Carson Roscoe
 
