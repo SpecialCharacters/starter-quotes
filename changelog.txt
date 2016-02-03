@@ -1,3 +1,6 @@
 Date/Time               What happened
 
-Feb 2, 3:52pm            Initial fork
+Feb 2, 5:45pm           Link 4 fixed
+Feb 2, 5:40pm           Link 3 fixed
+Feb 2, 5:12pm           Link 1 fixed
+Feb 2, 3:52pm           Initial fork
