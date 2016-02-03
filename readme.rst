@@ -1,4 +1,4 @@
-Coding Convention: K&R Style 
+Coding Convention: Allman Style 
 
 Team members:
 
@@ -6,7 +6,8 @@ Tsang, Allen
 
 Roscoe, Carson
 
-Jaegar Sarauer
+Sarauer, Jaegar 
+
 checking in..!?
 
 #######################
